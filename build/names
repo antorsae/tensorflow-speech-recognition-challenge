@@ -1,0 +1,7 @@
+AUDIO_NAMES =[ 'silence', 'unknown', 'yes', 'no', 'up', 'down', 'left', 'right', 'on', 'off', 'stop', 'go']
+
+i.e. 'silence' is label 0
+      'unknown'is  1
+      'yes'    is  2
+      ...
+      'yes'    is 11
